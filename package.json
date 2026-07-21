@@ -1,0 +1,33 @@
+{
+  "name": "v-connect",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "nodejs",
+    "blog",
+    "nodejs",
+    "blog"
+  ],
+  "homepage": "https://github.com/thanhc2bg-commits/V-Connect#readme",
+  "bugs": {
+    "url": "https://github.com/thanhc2bg-commits/V-Connect/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhc2bg-commits/V-Connect.git"
+  },
+  "license": "ISC",
+  "author": "phungdn",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
